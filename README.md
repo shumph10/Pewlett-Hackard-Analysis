@@ -1,6 +1,9 @@
 # Pewlett-Hackard-Analysis
 A large company, realized that in coming years many employees would nearing retirement age, and requested analysis of employees in order to prepare for the mass exodus. Records were parsed with SQL through postgress to determine retirement eligable employees, potential retirement numbers per department and titles. Additionally, to prepare for training of new employees as others retire, analysis was done on current employees who would be eligable for a mentorship program. Retirement conditions were supplied by the company, looking at persons born between 1952-1955 who are currently employeed. 
 
+
+-----------------------------------
+
 ##**Overview**
   Number of retiring employees per title and those eligible for mentorship programs were desired in addition to base analysis.
 
@@ -17,6 +20,8 @@ A sample of code used to create these queries is as follows:
 
   Code used to query tables for mentorship eligibility. 
 
+
+-----------------------------------
 
 
 ##**Results**
@@ -42,7 +47,17 @@ A sample of code used to create these queries is as follows:
 ![screenshot_table_mentorship_eligibility](https://user-images.githubusercontent.com/100040705/166062906-9b2b4108-3fe7-40d8-aa97-c45732694acb.png)
 
 
+-----------------------------------
+
+
 ##**Summary**
 - Due to the high turnover of senior engineers and staff, the company will have to put the most resources in finding new employees in these areas. As there are not nearly as many engineers or staff member in junior levels retiring, promotion paths in these area may be a way to distribute the burden of replacement in these areas. This could additionaly aid to maintain a strong leadership and longevity within the company.
 - Additional analysis should be done to determine the mentorship status of personel per title or department. This would give more insight into if there will be enough in house training for new or promoted employees. If it is determined there are not enough mentors to help smooth the new employee transition, new requirements for the program such as quarterly reviews could be considered, or the age of employees considered could be broadened.
 - Analysis of age of senior title employees throughout the company could help prevent a high turn over of the highest trained personel in the future. Focus on distribution of age through training of younger team members with high potenital in their fields could prevent such high retirement of senior titled or high level team members in the future.
+
+---------------------------------------
+
+##**Contact Me**
+
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
